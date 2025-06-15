@@ -1,0 +1,15 @@
+mental-health-prediction/
+│
+├── app.py                      # Flask backend
+├── model/
+│   └── mental_health_model.pkl # Trained ML model
+├── static/
+│   └── style.css               # Styling
+├── templates/
+│   ├── index.html              # Form page
+│   └── result.html             # Result display
+├── dataset/
+│   └── student_mental_health.csv  # Dataset used
+├── mental_health_model.ipynb  # Jupyter Notebook for training
+├── requirements.txt           # Libraries needed
+└── README.md                  # Project overview
